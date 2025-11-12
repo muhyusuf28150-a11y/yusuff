@@ -1,8 +1,8 @@
 .jumbotron {
-    background-image: url(../ing/download\ \(1\).jpg);
+    background-image: url(pngtree-ai-generated-abstract-electronic-circuit-board-background-neon-tone-glowing-in-image_15691890.jpg);
     background-size: cover;
-    background-position: 0-100px;
-    color: white;
+    background-position: 0 -100px;
+    color: rgb(56, 255, 6);
     background-attachment: fixed;
 }
 
@@ -17,14 +17,14 @@
 section {
     min-height: 450px;
 }
-.co1-1g-4 {
-    margin-botton: 10px;
+.col-lg-4 {
+    margin-bottom: 10px;
 }
-.rom .co1-1g-4 img {
+.row .col-lg-4 img {
     width: 300px;
-    height:150px;
+    height: 150px;
 }
 footer {
     color: white;
-    background-color: rgb(46, 46, 46, );
+    background-color: rgb(46, 46, 46, 46);
 }
